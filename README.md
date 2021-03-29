@@ -10,7 +10,7 @@ You will need to install:
 - Python 3.6 (3.7 is currently not supported by Celery)
 - [Pipenv](https://github.com/pypa/pipenv)
 - Node.js 11
-- Redis (or any other broker [supported by Celery](http://docs.celeryproject.org/en/latest/getting-started/brokers/))
+- Redis (or any other broker [supported by Celery](https://docs.celeryproject.org/en/stable/getting-started/brokers/index.html))
 
 1. `git clone https://github.com/zhaofengli/refill`
 1. `cd refill`
